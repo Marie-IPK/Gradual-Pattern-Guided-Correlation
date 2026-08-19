@@ -50,7 +50,7 @@ Gradual-Pattern-Guided-Correlation/
 ## Installation
 
 ```bash
-git clone <url-du-repo>
+git clone git@github.com:Marie-IPK/Gradual-Pattern-Guided-Correlation.git
 cd Gradual-Pattern-Guided-Correlation
 pip install -r requirements.txt
 ```
